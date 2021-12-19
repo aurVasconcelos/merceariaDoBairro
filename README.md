@@ -6,6 +6,7 @@ For this project I used PHP (with procedimental programming), MySQL and Bootstra
 ## Credits
 
 All icons used on this project are from: https://www.freepik.com/
+
 All images used on this project are from: https://unsplash.com/
 
 Documentation:
