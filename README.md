@@ -8,7 +8,7 @@ For this project I used PHP (with procedimental programming), MySQL and Bootstra
 All icons used on this project are from: https://www.freepik.com/
 All images used on this project are from: https://unsplash.com/
 
-Documentaion:
+Documentation:
 - https://www.php.net/
 - https://www.w3schools.com/
 - https://getbootstrap.com/
