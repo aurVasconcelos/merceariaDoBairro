@@ -1,0 +1,10 @@
+.Comprar{
+    display: flex;
+    align-items: right;
+}
+
+input[type=submit]{
+    margin: 10px;
+}
+
+

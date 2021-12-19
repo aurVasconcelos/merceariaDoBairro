@@ -1,0 +1,47 @@
+body{
+    font-family: "Microsoft YaHei UI";
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+}
+
+a{
+    text-decoration: none;
+}
+/*------------------------------MENSAGEM DE ERRO -----------*/
+
+.erro{
+    color: red;
+    text-align: center;
+}
+
+
+/*-----------------------Butões----------------------------*/
+input[type=submit]{
+    color: white;
+    background-color: #fcc344;
+    border: none;
+    margin-top: 20px;
+    padding: 5px 10px;
+}
+
+
+/*-----------------------Footer-----------------------------*/
+
+.footer {
+    overflow: hidden;
+    margin-top: 250px;
+    background: #262626;
+    color:white;
+    margin-bottom: 0;
+    padding-bottom: 0
+}
+
+.footer li a{
+    text-decoration: none;
+    font-family: "Microsoft YaHei UI";
+    color: white;
+}
+
+

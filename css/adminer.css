@@ -1,0 +1,51 @@
+.container{
+    display: flex;
+} 
+
+.regProd{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+
+.regCat{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 50%;
+    text-align: center;
+}
+
+.ProdContainer select{
+    width: 60%;
+    display: inline;
+    margin-right: 20px;
+}
+
+.MostrarProd{
+    display: flex;
+}
+
+.containerCard{
+    display: flex;
+    justify-content: space-between;
+}
+
+.card{
+    width: 25%;
+    margin: 0 20px;
+    display: inline;
+}
+
+.categoria input[type=submit]{
+    margin: 0;
+}
+
+.categoria select{
+    margin-bottom: 10px;
+}
+
+

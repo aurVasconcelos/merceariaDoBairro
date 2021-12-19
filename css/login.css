@@ -1,0 +1,38 @@
+
+.container{
+    display: flex;
+    align-items: center;
+}
+
+.formEsquerda{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 50%;
+    align-items: center;
+    text-align: center;
+}
+
+.formDireita{
+    margin: 0;
+    border: 0;
+    padding: 0;
+    width: 50%;
+    text-align: center;
+}
+
+input[type=text], input[type=password]{
+    width: 80%;
+    padding: 10px;
+    border-radius: 0;
+    margin-top: 10px;
+}
+
+input[type=submit]{
+    padding: 15px;
+    color: white;
+    background-color: #F2A761;
+
+    border-radius: 20px;
+    margin-top: 20px;
+}

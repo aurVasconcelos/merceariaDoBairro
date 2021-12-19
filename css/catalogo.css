@@ -1,0 +1,30 @@
+/*--------------------------Cards Catalogo-------------------*/
+.card{
+    width: 25%;
+    height: 28rem;
+    margin: 0 20px;
+    display: inline;
+}
+
+.containerCard{
+    display: flex;
+}
+
+.card-text{
+    font-size: small;
+}
+
+input[type=number]{
+    font-size: small;
+    width: 90%;
+}
+
+input[type=submit]{
+    width: 90%;
+    font-size: medium;
+}
+
+.card-img-top{
+    height: 50%;
+    width: auto;
+}
